@@ -1,0 +1,5 @@
+commit be3f3ae2299abeeae197c37023f948afcba8fd78
+Author: Hebah Alshaweesh <hibaalshaweesh122@gmail.com>
+Date:   Thu Oct 1 10:48:02 2026 +0300
+
+    Add hello.txt
